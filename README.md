@@ -1,0 +1,3 @@
+<h1>Sistema de Regristro</h1>
+
+Estado de proyecto: En proceso...
